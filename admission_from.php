@@ -31,6 +31,7 @@
                         <ul class="nav navbar-nav">
                             <li class="active"><a href="#">Home</a></li>
                             <li><a href="#">Welcome</a></li>
+                            <li><a href="#">Welcome</a></li>
                             <li><a href="#">Services</a></li>
                             <li><a href="#">Gallery</a></li>
                             <li><a href="#">Contact Us</a></li>
